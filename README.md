@@ -14,7 +14,7 @@ Test the worker:
 
 ```bash
 $ curl http://localhost:8787
-Request from: 127.0.0.1                                                                                   │~
-Sent 1256 bytes                                                                                           │~
+Request from: 127.0.0.1
+Sent 1256 bytes
 GET / 200 OK (837.96ms)
 ```

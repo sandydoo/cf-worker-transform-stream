@@ -1,0 +1,3 @@
+name = "cf-worker-transform-stream"
+main = "src/index.ts"
+compatibility_date = "2023-05-16"
